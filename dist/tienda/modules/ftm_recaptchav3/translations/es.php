@@ -1,0 +1,32 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_a8e45078ae805f4b2ffe35a75b9d1a71'] = 'FTM Recaptcha v3';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_9b0d8542903e8246727f15d9f8425505'] = 'Integra el recaptcha v3 de Google en tus formularios de contacto y registro';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_41c76d0dd8d968680e9b02cd3ee27b87'] = 'Recaptcha no verificado. ¿Eres un bot?';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_c2ed95d6b463a38574a5710a0b9cb5b1'] = 'Debes especificar la clave del sitio (site key) y la clave secreta (secret key) para poder activar el recaptcha en tu web';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_cc1da545dc597c1a6be9dd057bdb9185'] = 'La clave secreta y la clave del sitio no pueden ser iguales';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_cddda36333e82c0f76e159e34371fc6b'] = 'Los ajustes han sido actualizados';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Activado';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_b9f5c797ebbf55adccdd8539a65a0241'] = 'Desactivado';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_07f5f98f4eefa8ea744eb6202150dc9e'] = 'Solo en el index (página de inicio)';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_2e524127a99f1bd0ba36ad59cdf6677f'] = 'En todas las páginas de tu web';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_52f4393e1b52ba63e27310ca92ba098c'] = 'Ajustes generales';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_0a00f2255204ac9935f4aee696447146'] = 'Módulo recaptcha activo';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_4fe30ed1b6b6947923da8a12e1c40250'] = 'Activa o desactiva el recaptcha para esta web';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_3f066a86a8fe5523d6b6aaf8bc5ff82f'] = 'Clave del sitio';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_a82965f7af5c6bcf3727a7ca2c3463ff'] = 'Clave del sitio (site key) v3 de Google para esta web, puedes obtenerla en https://www.google.com/recaptcha/admin/create';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_127a14a5fd5e21f2f8e4efffa6e67788'] = 'Clave secreta';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_dca45bfa0795783988f439c7c4564819'] = 'Clave secreta (secret key) v3 de Google para esta web, puedes obtenerla en https://www.google.com/recaptcha/admin/create';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_f5f8fbbba6c61ad24d3eb78d6c7a9406'] = 'Activar en formulario de registro';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_cc79cd782ec6ec45d5c0e5309454dee1'] = 'Activa el recaptcha en el formulario de registro';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_61faa12de76985eb5329912bd667c050'] = 'Activar en formulario de contacto';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_b25694a1f8994b95524e0b4f940b2771'] = 'Activa el recaptcha en el formulario de contacto';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_bf07ee9d799095a9d98fe3d90aa9612f'] = 'Activar en la newsletter';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_fb7a1acee9ac14251e0a7c3ce7013bf1'] = 'Activa el recaptcha en el formulario de suscripción a la newsletter';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_62c16c5da376b234381347b88142ec1b'] = 'Ubicación de la newsletter';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_3405b7e5d9097befa1a02346024290df'] = 'Indica si el formulario de suscripción a la newsletter se muestra solo en la página de inicio o en todas las páginas de tu sitio web';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_7dadfcdc61a693a62841bc64fb854aec'] = 'Sensibilidad de recaptcha';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_cb1589e9d6c413fc89808ea744e3b08c'] = 'Ajusta la sensibilidad del recaptcha (valores más altos son más difíciles de pasar). Valor recomendado: 7';
+$_MODULE['<{ftm_recaptchav3}prestashop>ftm_recaptchav3_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="install-dev/classes/controllerHttp.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/controllers/http/configure.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/controllers/http/database.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/controllers/http/process.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/controllers/http/system.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      <trans-unit id="e1aa192240d00d1f6ea2ad7a030f9642" approved="yes">
+        <source>Intl extension is not loaded</source>
+        <target state="final">La extensión intl no está cargada</target>
+        <note>Line: 106</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="install-dev/theme/views/configure.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/theme/views/database.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/theme/views/footer.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/theme/views/header.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      <trans-unit id="9d90b6827ed904399354488b99074a4b" approved="yes">
+        <source>https://enable-javascript.com/</source>
+        <target state="final">https://enable-javascript.com/es/</target>
+        <note>Line: 96</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="install-dev/theme/views/license.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/theme/views/process.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/theme/views/system.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="install-dev/theme/views/welcome.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="modules/autoupgrade/classes/UpgradePage.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Form/Admin/Configure/ShopParameters/General/PreferencesType.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Install/Database.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Install/Install.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Install/Upgrade.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Install/XmlLoader.php" source-language="en" target-language="es-AR" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+</xliff>

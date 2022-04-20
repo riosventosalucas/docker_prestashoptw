@@ -1,0 +1,1 @@
+<input type="hidden" name="recaptcha_response" id="recaptchaResponse">
